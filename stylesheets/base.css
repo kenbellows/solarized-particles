@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans";
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+
+.navbar.navbar-minimal, .navbar.navbar-minimal .navbar-toggle {
+  background: transparent;
+  border: none;
+}
+
+header h1, header h2, main h3, .handwritten {
+  font-family: 'Swanky and Moo Moo';
+  font-weight: 400;
+}
+
+header h1 {
+  font-size: 5em;
+}
+
+.navbar.handwritten, .navbar.handwritten .navbar-brand {
+  font-size: 24px;
+}
+.navbar.handwritten .dropdown-menu {
+  font-size: 20px;
+}
+#canvas-container {
+  margin-top: 2em;
+}
